@@ -52,6 +52,10 @@ header .leftside{
     /* padding-right: 50px; */
     /* justify-content: space-between; */
 }
+.leftside .header-logo img:hover{
+  cursor: pointer;
+  
+}
 .leftside .left-item{
     display: flex;
 
